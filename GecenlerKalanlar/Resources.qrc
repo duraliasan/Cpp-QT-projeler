@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/liste">
+        <file>gecenler.txt</file>
+        <file>kalanlar.txt</file>
+    </qresource>
+</RCC>
